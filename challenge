@@ -1,0 +1,5 @@
+0. Finish retry functionality
+1. Create css and test files for each component
+2. Create a file structure based on components e.g. App folder holds App.js, App.css, App.test.js
+3. Create styling for your quiz app
+4. In your new test files, run the basic test from App.test.js. Make sure they all pass
